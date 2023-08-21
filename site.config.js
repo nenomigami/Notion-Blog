@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `notion-blog`,
+      href: "https://github.com/nenomigami/",
     },
   ],
   // blog setting (required)
