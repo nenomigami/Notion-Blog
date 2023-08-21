@@ -3,23 +3,23 @@ const CONFIG = {
   profile: {
     name: "nenomigami",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "hoyounjung",
+    role: "AI researcher",
+    bio: "The more efficient it becomes, the more widely it is used.",
+    email: "ghdbsl98@gmail.com",
+    linkedin: "hoyoun-jung-0859421b7",
     github: "nenomigami",
-    instagram: "",
+    instagram: "nenomigami",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Julio's dev",
+    description: "welcome to Julio's blog",
   },
 
   // CONFIG configration (required)
@@ -49,7 +49,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
+      repo: nenomigami,
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
