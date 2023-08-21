@@ -20,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "Julio's dev",
     description: "welcome to Julio's blog",
+    theme: "auto"
   },
 
   // CONFIG configration (required)
