@@ -49,7 +49,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: "Notion-Blog",
+      repo: "nenomigami/Notion-Blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
