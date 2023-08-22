@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
+      name: `Coming soon`,
       href: "",
     },
   ],
