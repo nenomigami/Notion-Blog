@@ -4,7 +4,7 @@ const CONFIG = {
     name: "nenomigami",
     image: "/profile.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AI researcher",
-    bio: "The more efficient it becomes, the more widely it is used.",
+    bio: "If you can measure it, you can improve it.",
     email: "ghdbsl98@gmail.com",
     linkedin: "hoyoun-jung-0859421b7",
     github: "nenomigami",
@@ -20,11 +20,11 @@ const CONFIG = {
   blog: {
     title: "Julio's dev",
     description: "welcome to Julio's blog",
-    theme: "auto",
+    theme: "light",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://devjulio.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -48,7 +48,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: "nenomigami/notion-blog",
       "issue-term": "og:title",
