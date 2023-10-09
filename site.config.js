@@ -36,13 +36,13 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: truee,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "G-TY7W3ZH73H",
     },
   },
   googleSearchConsole: {
-    enable: false,
+    enable: true,
     config: {
       siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "XQBPD-QFaB8XT9YXWBEBVbMNKglWZzOP_J_Y1PWT0U0",
     },
