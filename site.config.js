@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "nenomigami",
+    name: "Hoyoun Jung (Julio)",
     image: "/profile.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AI researcher",
     bio: "If you can measure it, you can improve it.",
@@ -38,13 +38,13 @@ const CONFIG = {
   googleAnalytics: {
     enable: false,
     config: {
-      measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
+      measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "G-TY7W3ZH73H",
     },
   },
   googleSearchConsole: {
     enable: false,
     config: {
-      siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
+      siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "XQBPD-QFaB8XT9YXWBEBVbMNKglWZzOP_J_Y1PWT0U0",
     },
   },
   utterances: {
