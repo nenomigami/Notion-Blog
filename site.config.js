@@ -36,7 +36,7 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: truee,
+    enable: true,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "G-TY7W3ZH73H",
     },
